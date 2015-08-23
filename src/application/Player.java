@@ -6,9 +6,6 @@ import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 import javafx.scene.media.MediaView;
 
-/**
- * Created by colinDetwiller on 8/23/15.
- */
 public class Player extends BorderPane {
     Media media;
     MediaPlayer player;
